@@ -1,0 +1,9 @@
+https://github.com/neverwinter-nights/Cargo-Manager.git
+https://github.com/neverwinter-nights/FontInstaller.git
+https://github.com/neverwinter-nights/MEh.git
+https://github.com/neverwinter-nights/MEh-Typewriter.git
+https://github.com/neverwinter-nights/Mesh-Selection-Mode-Cycle.git
+https://github.com/neverwinter-nights/neverwinter-nights.git
+https://github.com/neverwinter-nights/Vehicle-Towing.git
+https://github.com/neverwinter-nights/Vehicle-Viewer.git
+https://github.com/neverwinter-nights/Warlords-Tanoa-Vanilla-Edition.git
