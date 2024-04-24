@@ -1,3 +1,4 @@
+https://github.com/neverwinter-nights/Blender-Addons.git
 https://github.com/neverwinter-nights/Cargo-Manager.git
 https://github.com/neverwinter-nights/FontInstaller.git
 https://github.com/neverwinter-nights/MEh.git
